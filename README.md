@@ -19,7 +19,7 @@ It includes hands-on projects, experiments, and practice notebooks.
 ## Demo
 A simple Streamlit demo file is included to showcase the project workflow.
 
-![Streamlit Demo](screenshot.png)
+![Streamlit Demo](https://github.com/abdelrhman-hamada/learning-journey/blob/main/Screenshot%202025-12-31%20163920.png)
 
 ## Status
 This project is part of my continuous learning journey.
